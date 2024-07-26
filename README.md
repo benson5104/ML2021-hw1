@@ -10,3 +10,7 @@ covid-19 prediction
 model新增dropout,batch normalization
 
 early stop 300, 避免overfitting
+
+結果:
+
+![image](https://github.com/user-attachments/assets/12d977f6-d02f-483c-886d-03b3e380fbcb)
